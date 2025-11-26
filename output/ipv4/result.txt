@@ -1,83 +1,29 @@
 🕘️更新时间,#genre#
-2025-11-26 12:04:47,http://ygbh.site/php/bfgd.php?id=339
+2025-11-26 13:07:09,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 
 📺央视频道,#genre#
 
-💰央视付费频道,#genre#
-
 📡卫视频道,#genre#
-河南卫视,http://ygbh.site/php/bfgd.php?id=339
-
-☘️广东频道,#genre#
-
-☘️浙江频道,#genre#
-
-☘️北京频道,#genre#
-
-☘️上海频道,#genre#
-
-☘️重庆频道,#genre#
-
-☘️江苏频道,#genre#
-
-☘️辽宁频道,#genre#
-
-☘️湖南频道,#genre#
-
-☘️湖北频道,#genre#
-
-☘️广西频道,#genre#
-
-☘️天津频道,#genre#
-
-☘️四川频道,#genre#
-
-☘️陕西频道,#genre#
-
-☘️福建频道,#genre#
-
-☘️海南频道,#genre#
-
-☘️河南频道,#genre#
-
-☘️河北频道,#genre#
-
-☘️贵州频道,#genre#
-
-☘️甘肃频道,#genre#
-
-☘️新疆频道,#genre#
-
-☘️山东频道,#genre#
-
-☘️山西频道,#genre#
-
-☘️安徽频道,#genre#
-
-☘️宁夏频道,#genre#
-
-☘️吉林频道,#genre#
-
-☘️内蒙古频道,#genre#
-
-☘️云南频道,#genre#
-
-☘️青海频道,#genre#
-
-☘️黑龙江频道,#genre#
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 
 🌊港·澳·台,#genre#
+
+💰央视经典,#genre#
 
 🎬电影频道,#genre#
 
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
+广东体育,http://r.jdshipin.com/LiYdg
+山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
+山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 
 🪁动画频道,#genre#
 
-🎮游戏频道,#genre#
-
 🎵音乐频道,#genre#
+音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 
 🏛经典剧场,#genre#
