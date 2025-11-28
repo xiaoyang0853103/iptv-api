@@ -24,8 +24,8 @@ Category: 📡卫视频道, Name: 深圳卫视, Total: 45, Valid: 33, Valid Perc
 Category: 📡卫视频道, Name: 江苏卫视, Total: 79, Valid: 63, Valid Percent: 79.75%, Whitelist: 0, IPv4: 0, IPv6: 79, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 📡卫视频道, Name: 东方卫视, Total: 83, Valid: 59, Valid Percent: 71.08%, Whitelist: 0, IPv4: 0, IPv6: 83, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 📡卫视频道, Name: 浙江卫视, Total: 85, Valid: 68, Valid Percent: 80.00%, Whitelist: 0, IPv4: 0, IPv6: 85, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
-Category: 📡卫视频道, Name: 湖南卫视, Total: 73, Valid: 57, Valid Percent: 78.08%, Whitelist: 0, IPv4: 1, IPv6: 72, Min Delay: 0.1 ms, Max Speed: 2.80 M/s, Avg Speed: 0.05 M/s, Max Resolution: 1920x1080
-Category: 📡卫视频道, Name: 北京卫视, Total: 67, Valid: 53, Valid Percent: 79.10%, Whitelist: 0, IPv4: 1, IPv6: 66, Min Delay: 0.1 ms, Max Speed: 2.24 M/s, Avg Speed: 0.04 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 湖南卫视, Total: 72, Valid: 56, Valid Percent: 77.78%, Whitelist: 0, IPv4: 0, IPv6: 72, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
+Category: 📡卫视频道, Name: 北京卫视, Total: 66, Valid: 52, Valid Percent: 78.79%, Whitelist: 0, IPv4: 0, IPv6: 66, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 📡卫视频道, Name: 辽宁卫视, Total: 61, Valid: 39, Valid Percent: 63.93%, Whitelist: 0, IPv4: 0, IPv6: 61, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 📡卫视频道, Name: 广东卫视, Total: 74, Valid: 58, Valid Percent: 78.38%, Whitelist: 0, IPv4: 0, IPv6: 74, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 📡卫视频道, Name: 东南卫视, Total: 57, Valid: 41, Valid Percent: 71.93%, Whitelist: 0, IPv4: 0, IPv6: 57, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
@@ -141,7 +141,7 @@ Category: 🎥咪咕直播, Name: 咪咕直播37, Total: 1, Valid: 1, Valid Perc
 Category: 🎥咪咕直播, Name: 咪咕直播38, Total: 1, Valid: 1, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 🏀体育频道, Name: CCTV-5, Total: 70, Valid: 37, Valid Percent: 52.86%, Whitelist: 0, IPv4: 0, IPv6: 70, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 🏀体育频道, Name: CCTV-5+, Total: 57, Valid: 41, Valid Percent: 71.93%, Whitelist: 0, IPv4: 0, IPv6: 57, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
-Category: 🏀体育频道, Name: 广东体育, Total: 32, Valid: 10, Valid Percent: 31.25%, Whitelist: 0, IPv4: 1, IPv6: 31, Min Delay: 0.1 ms, Max Speed: 59.15 M/s, Avg Speed: 5.92 M/s, Max Resolution: 1920x1080
+Category: 🏀体育频道, Name: 广东体育, Total: 32, Valid: 10, Valid Percent: 31.25%, Whitelist: 0, IPv4: 1, IPv6: 31, Min Delay: 0.1 ms, Max Speed: 43.26 M/s, Avg Speed: 4.33 M/s, Max Resolution: 1920x1080
 Category: 🏀体育频道, Name: 纬来体育, Total: 8, Valid: 5, Valid Percent: 62.50%, Whitelist: 0, IPv4: 0, IPv6: 8, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 🏀体育频道, Name: 五星体育, Total: 29, Valid: 18, Valid Percent: 62.07%, Whitelist: 0, IPv4: 0, IPv6: 29, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 🏀体育频道, Name: 劲爆体育, Total: 8, Valid: 8, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 8, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
@@ -150,7 +150,7 @@ Category: 🏀体育频道, Name: 超级体育, Total: 7, Valid: 6, Valid Percen
 Category: 🏀体育频道, Name: 精品体育, Total: 7, Valid: 5, Valid Percent: 71.43%, Whitelist: 0, IPv4: 0, IPv6: 7, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 🏀体育频道, Name: 广州竞赛, Total: 21, Valid: 10, Valid Percent: 47.62%, Whitelist: 0, IPv4: 0, IPv6: 21, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 🏀体育频道, Name: 辽宁体育, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
-Category: 🏀体育频道, Name: 山东体育, Total: 13, Valid: 12, Valid Percent: 92.31%, Whitelist: 0, IPv4: 2, IPv6: 11, Min Delay: 0.1 ms, Max Speed: 2.47 M/s, Avg Speed: 0.40 M/s, Max Resolution: 1920x1080
+Category: 🏀体育频道, Name: 山东体育, Total: 11, Valid: 10, Valid Percent: 90.91%, Whitelist: 0, IPv4: 0, IPv6: 11, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 🏀体育频道, Name: 江苏体育, Total: 13, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 13, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 🏀体育频道, Name: 安徽综艺体育, Total: 5, Valid: 4, Valid Percent: 80.00%, Whitelist: 0, IPv4: 0, IPv6: 5, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 🏀体育频道, Name: 睛彩篮球, Total: 2, Valid: 1, Valid Percent: 50.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
@@ -181,7 +181,6 @@ Category: 🪁动画频道, Name: 经典动漫, Total: 2, Valid: 2, Valid Percen
 Category: 🪁动画频道, Name: 漫画解说, Total: 4, Valid: 2, Valid Percent: 50.00%, Whitelist: 0, IPv4: 0, IPv6: 4, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 🎵音乐频道, Name: CCTV-15, Total: 85, Valid: 63, Valid Percent: 74.12%, Whitelist: 0, IPv4: 0, IPv6: 85, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 🎵音乐频道, Name: 风云音乐, Total: 2, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 2, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
-Category: 🎵音乐频道, Name: 音乐现场, Total: 2, Valid: 2, Valid Percent: 100.00%, Whitelist: 0, IPv4: 2, IPv6: 0, Min Delay: 40 ms, Max Speed: 2.79 M/s, Avg Speed: 2.60 M/s, Max Resolution: None
 Category: 🎵音乐频道, Name: 音乐广播, Total: 1, Valid: 0, Valid Percent: 0.00%, Whitelist: 0, IPv4: 0, IPv6: 1, Min Delay: -1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: None
 Category: 🏛经典剧场, Name: 笑傲江湖, Total: 3, Valid: 3, Valid Percent: 100.00%, Whitelist: 0, IPv4: 0, IPv6: 3, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
 Category: 🏛经典剧场, Name: 天龙八部, Total: 5, Valid: 4, Valid Percent: 80.00%, Whitelist: 0, IPv4: 0, IPv6: 5, Min Delay: 0.1 ms, Max Speed: 0.00 M/s, Avg Speed: 0.00 M/s, Max Resolution: 1920x1080
