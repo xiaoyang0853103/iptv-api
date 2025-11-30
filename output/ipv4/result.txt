@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-30 18:38:35,http://r.jdshipin.com/LiYdg
+2025-12-01 06:31:52,http://r.jdshipin.com/LiYdg
 
 📺央视频道,#genre#
 
@@ -15,9 +15,11 @@
 
 🏀体育频道,#genre#
 广东体育,http://r.jdshipin.com/LiYdg
+山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 
 🪁动画频道,#genre#
 
 🎵音乐频道,#genre#
+音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 
 🏛经典剧场,#genre#
